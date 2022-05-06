@@ -1,1 +1,2 @@
 
+float calcolo (float [], int );
