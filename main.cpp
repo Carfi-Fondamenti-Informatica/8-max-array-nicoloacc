@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-  int y;
+   int y;
     cin >> y;
     float x [y];
     for (int j=0; j<y; j++) {
